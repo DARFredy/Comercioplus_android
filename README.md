@@ -19,5 +19,6 @@ object RetrofitInstance {
     // ... resto de la lógica de conexión (OkHttpClient, JSON, etc) ...
 }
 🛠️ Tecnologías utilizadasLenguaje: Java / KotlinEntorno de desarrollo: Android StudioBase de Datos: PostgreSQL / MySQL (Alojada en Railway)
+
 [![ComercioPlusAndroid](https://img.youtube.com/vi/qT_NSwmAMpE/0.jpg)](https://www.youtube.com/watch?v=qT_NSwmAMpE)
 
